@@ -1,0 +1,33 @@
+.childcare {
+    background-image: linear-gradient( to right, #fde7ea, #fdefda);
+}
+.juicypeach {
+    background-image: linear-gradient( to right, #FFC2C2, #FFD7A8);
+}
+.oceanblue {
+    background-image: linear-gradient( to right, #A0BEF8, #b4f0f0);
+}
+.celestial {
+    background-image: linear-gradient( to right, #3378ff, #9442fe);
+}
+.amour {
+    background-image: linear-gradient( to right, #EB4174, #FFE3E3);
+}
+.purplelake {
+    background-image: linear-gradient( to right, #C15CFF, #FF5454);
+}
+.almost {
+    background-image: linear-gradient( to right, #F9E7FE, #DAFCFC);
+}
+.plumplate {
+    background-image: linear-gradient( to right, #8A2EFF, #CCE0FF);
+}
+.softgrass {
+    background-image: linear-gradient( to right, #9EF9D8 , #CAF6BF);
+}
+.lush {
+    background-image: linear-gradient( to right, #1AA37A, #9DFFB3);
+}
+div {
+text-align: center;
+}
